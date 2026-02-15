@@ -1,0 +1,32 @@
+#social{
+  height: 50px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: #ffffff;
+  padding: 10px;
+  
+}
+body{
+  height: 425px;
+  width: 320px;
+  border: 10px solid #1703fc;
+  display: flex;
+  flex-direction: column
+}
+#box{
+  height: 355px;
+  width: 100%;
+  background-color:blue
+}
+body{
+  display: flex;
+}
+#r{
+  border-radius: 50%;
+  border: 5px solid blue;
+  padding: 8px
+  
+}
+
